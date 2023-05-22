@@ -6,3 +6,4 @@ This repository is an open source version of the Saint Louis University Computer
 # General Information
 
 * [Syllabus](syllabus.md)
+* [Roster](roster.md)
