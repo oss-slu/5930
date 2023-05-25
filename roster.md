@@ -1,3 +1,3 @@
 Name, Nickname, GitHub Username, Team, Role
 Daniel Shown, Daniel, kungfuchicken, ,Instructor
-Chintak Joshi, Chintak, chintakjoshi, Developer
+Chintak Joshi, Chintak, chintakjoshi, TWA, Developer
