@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Manaswini Challa, Manu, Manaswini1208, YES_FaceTagging, Developer
