@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Sreehari Thota, Sreehari, DemonXslayer47, BWorks, Student
