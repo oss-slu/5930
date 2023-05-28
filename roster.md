@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Chandrasekhar Naidu Seelam, chandu, schanduae4, SLSC Photo archive face Tagging, Software developer
