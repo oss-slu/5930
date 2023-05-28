@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Naga Prasad Kondaboina, Naga Prasad, KNagaPrasad,BWorks, Student
