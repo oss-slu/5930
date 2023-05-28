@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Vineetha Muktineni,Vineetha,Vmuktineni,BWorks,Student
