@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Vivekananda Reddy Ponugoti, Vivek, vivekanandareddy-ponugoti, yg-drone, Developer
