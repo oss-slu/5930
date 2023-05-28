@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Praneeth Reddy Yembadi, praneeth, praneethreddy9, yg_drone, developer
