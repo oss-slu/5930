@@ -1,2 +1,2 @@
 Name, Nickname, GitHub Username, Team, Role
-Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Rohith Donadula, Rohith, rdonadula, yg_drone, Developer
