@@ -8,17 +8,36 @@ TWA started its efforts in 2018 by organizing the Second Chance Job Fair in part
 
 ## Project Brief
 
+Second Chance Job Portal Overview
+
 This project involves collecting and matching the below information
 
-1. criminal records of individuals
+1. Justice-involved individuals in the program
 2. Job requirements from the hiring team.
 
 If the above 1 and 2 requirements are not related to each other. then we can send this particular profile to hiring team. similarly vice versa.
 
 ## Functional Requirements
 
+
+* User Registration and Authentication:
+    * The system should allow users to sign up with their email addresses or social media accounts.
+    * To ensure secure access, the system needs to authenticate registered users.
+* User Roles:
+    * Different user roles, such as job seekers and employers/recruiters, should be supported by the system.
+    * Access levels and privileges should be tailored to each user role.
 * Profile building.
 * Job posting.
-* Apply for jobs.
-* Filtering candidates.
-* Training candidates.
+    * Employers/recruiters should be able to post job vacancies with details such as job title, description, required qualifications, experience, and location.
+    * The system should allow employers to set criteria for matching candidates to their job postings.
+* Candidate Application and Job Search
+* Intelligent Matching Algorithm
+* Filtering and Sorting Options
+* Candidate Training and Development
+* Feedback
+* Reporting and Analytics 
+    * provide reports and analytics on the recruitment process. 
+    * phow many applications are received, 
+    * how many got accepted, 
+    * other relevant metrics.
+
