@@ -2,6 +2,7 @@ Name, Nickname, GitHub Username, Team, Role
 Abhilash Kotha, Abhilash, AbhilashKotha, YG_Drone, Developer
 Akhil Vemulapally, Akhil, vakhil-98, Bworks, Student
 Anees Shaik, Anees, anees1203, Bworks, Student
+Chandrasekhar Naidu Seelam, chandu, schanduae4, SLSC Photo archive face Tagging, Software developer
 Chintak Joshi, Chintak, chintakjoshi, TWA, Developer
 Daniel Shown, Daniel, kungfuchicken, ,Instructor
 Deepthi Annem, Annem, deepthiannem, BWorks, student
