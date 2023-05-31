@@ -3,6 +3,7 @@ Abhilash Kotha, Abhilash, AbhilashKotha, YG_Drone, Developer
 Akhil Vemulapally, Akhil, vakhil-98, Bworks, Student
 Chintak Joshi, Chintak, chintakjoshi, TWA, Developer
 Daniel Shown, Daniel, kungfuchicken, ,Instructor
+Deepthi Annem, Annem, deepthiannem, BWorks, student
 Manaswini Challa, Manu, Manaswini1208, YES_FaceTagging, Developer
 Navya Chowdary Nelluri, Navya, NavyaNelluri,TWA, Developer
 Rushikesh Nalamothu, Rushikesh, rushikesh-slu, slsc-face-archive, Developer
