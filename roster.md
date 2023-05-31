@@ -9,6 +9,7 @@ Deepthi Annem, Annem, deepthiannem, BWorks, student
 Manaswini Challa, Manu, Manaswini1208, YES_FaceTagging, Developer
 Naga Prasad Kondaboina, Naga Prasad, KNagaPrasad,BWorks, Student
 Navya Chowdary Nelluri, Navya, NavyaNelluri,TWA, Developer
+Pavan Mamidi, Pavan ,pavan6135, yg_drone, Developer
 Praneeth Reddy Yembadi, praneeth, praneethreddy9, yg_drone, developer
 Rohith Donadula, Rohith, rdonadula, yg_drone, Developer
 Rushikesh Nalamothu, Rushikesh, rushikesh-slu, slsc-face-archive, Developer
