@@ -7,6 +7,7 @@ Daniel Shown, Daniel, kungfuchicken, ,Instructor
 Deepthi Annem, Annem, deepthiannem, BWorks, student
 Manaswini Challa, Manu, Manaswini1208, YES_FaceTagging, Developer
 Navya Chowdary Nelluri, Navya, NavyaNelluri,TWA, Developer
+Praneeth Reddy Yembadi, praneeth, praneethreddy9, yg_drone, developer
 Rushikesh Nalamothu, Rushikesh, rushikesh-slu, slsc-face-archive, Developer
 Sai Chetan Veeragandham, Chetan, saichetanveeragandham, TWA, Developer
 Sardarni Harjoth Kaur, Neha, harjothkaur, TWA, Reviewer
