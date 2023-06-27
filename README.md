@@ -7,3 +7,10 @@ This repository is an open source version of the Saint Louis University Computer
 
 * [Syllabus](syllabus.md)
 * [Roster](roster.md)
+
+# Project Briefs
+
+* [BWorks Material Donation Tracking](bworks-donation-tracker.md)
+* [Youth Group Drone Control Mobile](yg-drone-control-mobile.md)
+* [SLSC Photo Archive Face Tagging](slsc-facee-archive.md)
+* [TWA Careers & Candidates Matching](twa-matching.md)
