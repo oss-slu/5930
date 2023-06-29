@@ -14,3 +14,7 @@ This repository is an open source version of the Saint Louis University Computer
 * [Youth Group Drone Control Mobile](yg-drone-control-mobile.md)
 * [SLSC Photo Archive Face Tagging](slsc-facee-archive.md)
 * [TWA Careers & Candidates Matching](twa-matching.md)
+
+# Extra Credit Option
+
+Extra credit is possible by getting changes into open source repositories that are on a [pre-approved list](extra-credit.md).
