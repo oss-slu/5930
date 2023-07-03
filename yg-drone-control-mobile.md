@@ -25,3 +25,11 @@ The purpose of this software project is to develop a mobile application that rep
 - Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
 - Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
 - Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
+
+* SERVANT AS LEADER *
+
+Acquiring the Purpose: Begin by learning the community service group's mission and purpose, as well as their Drone Mobile Controller App. Familiarize yourself with their objectives, which include promoting safe and efficient drone handling, improving user experience, and facilitating community interaction through the app.
+
+User Education and Support: Servant leaders prioritize app user education and support. Engage users by making educational resources, tutorials, or user manuals available to help them navigate the app successfully. Provide support channels, such as forums or helplines, to address user questions and provide prompt assistance.
+
+Collaboration and Feedback: Encourage app users, drone enthusiasts, and specialists to collaborate. Seek feedback on the app's usability, features, and overall user experience actively. Through beta testing, user surveys, or focus groups, involve the community in the app's development process. You may ensure that the app meets the needs of the community by incorporating user feedback.
