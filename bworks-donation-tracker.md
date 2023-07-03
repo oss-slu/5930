@@ -40,8 +40,7 @@ Putting others first:
 The members of our team will put the needs of the community before our own as servant leaders. For those who might not have access to such resources, we will labor sacrificially to supply bicycles, encourage literacy, and present educational possibilities. By prioritizing others, we will foster a spirit of generosity and cooperation among our group members and the neighborhood we serve.
 
 Empowering others:
-Giving opportunities for growth and self-improvement to community members is a key component of servant leadership in the BWorks project. We'll promote participation and 
-Title: Eco-Warriors Project Brief
+Giving opportunities for growth and self-improvement to community members is a key component of servant leadership in the BWorks project. We'll promote participation and  We'll promote participation and actively involve them in key discussions and planning phases.
 
 Creating a shared vision: As part of the BWorks initiative, servant leaders will work with local residents to develop a shared vision. In order to ensure that their opinions are heard and their objectives are taken into consideration, we will involve them in the development and execution of our initiatives. 
 
