@@ -25,3 +25,13 @@ The purpose of this software project is to develop a mobile application that rep
 - Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
 - Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
 - Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
+
+*Servant as Leader*
+
+Listening and Understanding: It is critical for servant leaders to pay close attention to the wants and preferences of drone users, particularly the program's teenage participants. The creation of a user-centric mobile app will be guided by an understanding of their needs and feedback.
+
+Safety and Responsiveness: In order to put user and public safety first, a servant leader makes sure that safety features are incorporated into the app. This entails using collision avoidance technologies to avoid obstacles and geofencing to keep drones from flying into prohibited regions. User confidence and safety are further increased through responsiveness to user inputs and quick emergency reaction alternatives, like the distress signal button.
+
+Education and Guidance: It's crucial to include advice and educational materials in the app as a servant leader. This can include instruction manuals, advice on safe drone operation, and details on local laws. The app aids users in honing their drone operation skills by encouraging responsible and knowledgeable drone use.
+
+Empowering Users: By giving clients with a smartphone app that simplifies drone operation, a servant leader empowers them. Users should be able to feel secure and in control of their drone flights because to the app's straightforward user interface, clear instructions, and precise controls.
