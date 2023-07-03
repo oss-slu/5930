@@ -25,3 +25,16 @@ The purpose of this software project is to develop a mobile application that rep
 - Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
 - Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
 - Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
+
+## Servant as Leader Principles
+
+- Listening and Understanding: We can try and speak with the beneficiaries of the project, the client, and the users to listen to their needs and understand what needs to be done.
+- Language and Imagination: We need to utilize the right language and our imagination to convey our ideas and our plans for implementation.
+- Acceptance and Empathy: We, developers need to understand and empathize with the users to better design the solutions or features in our mobile application.
+- Know the Unknowable: We need to learn continuously to see which framework or library suits the best for the application’s connectivity.
+- Foresight: Think about at least a few years in the future and see what features and all are needed and help the developers in that way.
+- Awareness and Perception: Improve the awareness of everyone involved by using announcements or regular meetings.
+- One Action at a Time: As we are already doing, divide tasks into small pieces, so that the deliverables can be divided 
+
+By applying these principles, I believe we can achieve great success in the development of the application. 
+
