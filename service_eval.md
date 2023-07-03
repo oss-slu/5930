@@ -1,27 +1,12 @@
-Project Name: angular
+Putting others first: Servant leaders prioritize the needs of others over their own as part of their community service groups. Members of the community are actively listened to, their challenges are understood, and their needs are effectively addressed.
 
-What are the desired outcomes for the program?
+Taking ownership and contributing: Servant leaders in the community service group empower others to carry out the group's mission. Individuals are encouraged to take initiative and make a positive impact in a collaborative environment where everyone's ideas and talents are valued.
 
-The desired outcomes of the Angular program are to provide developers with a comprehensive framework for building scalable and performant web applications. Angular aims to simplify the development process, improve developer productivity, and deliver high-quality applications with rich user experience.
+Serving with Humility: Servant leaders demonstrate humility by recognizing their role within a larger context. Their approach to work is humble and they strive to learn from others, appreciating their collective efforts.
 
-Do you have any evidence about whether they are succeeding in achieving their desired outcomes.
+Relationship Building: Servant leaders understand the importance of building genuine relationships within their communities. Their goal is to build trust and foster a sense of belonging among community members. A servant leader can effectively understand the needs of the community by building relationships and working together to find solutions.
 
-Angular has gained significant popularity and adoption in the web development community since its release. It is widely used by developers and has a large and active community that contributes to its development and provides support. The success of Angular can be seen in the numerous production applications and success stories shared by developers and organizations that have leveraged the framework.
+Leading by example: Servant leaders within the community service group inspire and motivate others to contribute their skills and time. They lead by example, demonstrating dedication, passion, and a strong work ethic. Through their enthusiasm, they inspire others to get involved, creating a ripple effect of positive impact.
 
-What community or communities are being served?
+Ethical decision making: Servant leaders sustain high ethical standards within the community service group when making decisions. They decide in the community's best interests, upholding fairness, openness, and accountability. They aggressively solicit feedback from others and take the long view while making decisions.
 
-The Angular community includes web developers, both beginners and experienced professionals, who utilize the framework to build web applications. It serves a diverse range of industries and sectors, including startups, enterprises, and educational institutions.
-
-What is the need that is being met?
-
-Angular addresses the need for a robust and scalable framework that simplifies the development of complex web applications. It provides a structured approach to building applications, offers a wide range of features and tools, and promotes code reusability and maintainability. By fulfilling these needs, Angular empowers developers to create high-quality web applications efficiently.
-
-
-
-How does the program address quality criteria?
-
-Angular addresses quality criteria by enforcing best practices and design patterns, such as the Model-View-Controller (MVC) architecture and dependency injection. It promotes testability through features like unit testing and end-to-end testing with tools like Karma and Protractor. Angular also emphasizes performance optimization techniques, such as lazy loading and Ahead-of-Time (AOT) compilation, to ensure fast and responsive applications.
-
-In summary, Angular aims to provide a comprehensive framework for web application development, has evidence of success through its popularity and adoption, serves a diverse web development community, fulfills the need for a robust framework, and addresses quality criteria through its architecture, testing capabilities, and performance optimization techniques.
-
-Project_link : https://github.com/angular/angular.git
