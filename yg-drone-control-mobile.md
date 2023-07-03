@@ -6,7 +6,7 @@ A free program in St. Louis teaches teenagers from remote areas how to fly drone
 
 ## Project Brief
 
-The mobile app  is  cutting edge mobile application specially developed for flying the drone that should be designed in such a way that it is specially designed for operating the drones. It should control the simple features like recording the live video's, collecting the real time data and sprinkling the water when ever a area is effected with the fire. It opens up the world of thrilling drone flying and outstanding photo capture thanks to safety features, controlling the media, and functioning on both iOS and Android devices.
+The purpose of this software project is to develop a mobile application that replaces the need for a separate remote controller, enabling users to control drones using their smartphones or tablets. The project aims to revolutionize the way drones are controlled, making them more accessible, affordable, and user-friendly.
 
 ## Functional Requirements
 
@@ -17,3 +17,11 @@ The mobile app  is  cutting edge mobile application specially developed for flyi
 - Aileron Control: A control input in the plane's control system is used to modify the aircraft's roll. The ailerons can be moved right or left using the user's right hand. This control affects the aircraft's roll or tilt.
 - Independent Control: The throttle, rudder, elevator/pitch, and aileron controls operate independently of one another, allowing the user to fine-tune power, direction, angle, and roll.
 - Measurement in Percentages: The throttle, rudder, elevator/pitch, and aileron controls are all stated in percentages. This enables the user to make exact modifications within a set range, with a percentage increase or reduction matching to a specific change in the flight parameter.
+- Real-time Video Streaming: In addition to capturing live footage, we'll incorporate a function that lets users stream the drone's video feed directly to the user's mobile device. They will be able to track their flights in real-time and share their trips with others thanks to this fascinating immersive experience. Ensure smooth and high-quality video transmission, allowing users to monitor the drone's surroundings in real-time.
+- Emergency response: in times of need. In order to make recovery easier in the event of loss or malfunction, we'll include a distress signal button that, when touched, will immediately start a return-to-home procedure or send out a locating beacon. Both users and program administrators will benefit from an extra layer of security and comfort from this feature.
+- User Interface and Experience (UI/UX): Focus on creating an intuitive and user-friendly interface that allows users to easily navigate and control the drone. Ensure that the app provides clear instructions and feedback to enhance the user experience.
+- Drone Control and Safety: Implement precise and responsive controls for flying the drone, including features like takeoff, landing, altitude control, and maneuvering. Emphasize safety features such as geofencing to prevent drones from flying into restricted areas or collision avoidance technology to avoid obstacles. Ensure mobile app safety of drone operations and prevent unauthorized access or misuse of the app's features.
+- User Registration: Allow users to establish accounts and log in to access the app's features and functionalities.
+- Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
+- Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
+- Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
