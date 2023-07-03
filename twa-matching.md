@@ -43,6 +43,7 @@ If the above 1 and 2 requirements are not related to each other. then we can sen
 
 
 
+
 Operation Food Search has several desired outcomes for its programs:
 
 1. Ending childhood hunger: The primary objective is to ensure that no child in the St. Louis region goes hungry and that they have access to nutritious meals for their growth and development.
@@ -61,3 +62,4 @@ Many families in the St. Louis region struggle to afford or access an adequate a
 
 The program addresses quality criteria through bellow measures:
 Nutritional standards, Food safety protocols, Collaborative partnerships, Evaluation and continuous improvement
+
