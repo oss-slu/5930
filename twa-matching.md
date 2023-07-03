@@ -41,3 +41,26 @@ If the above 1 and 2 requirements are not related to each other. then we can sen
     * how many got accepted, 
     * other relevant metrics.
 
+# Big Brothers Big Sisters
+## servant as leader
+A servant leader is a leader who prioritizes the needs, growth, and well-being of their team members above their own ambitions. They embody qualities such as empathy, humility, integrity, and a desire to serve others. By putting their team first, listening attentively, and supporting their development, a servant leader fosters a collaborative and inclusive work environment. They lead by example, demonstrating integrity and accountability, and empower their team members to reach their full potential. Through their selfless approach, a servant leader creates a positive and motivated team, resulting in collective success.
+## Big Brothers Big Sisters of Eastern Missouri aims to achieve several desired outcomes through its mentoring program:
+
+1. Positive youth development: The program strives to promote positive growth and development in young individuals by providing them with supportive relationships, role models, and guidance.
+2. Improved educational outcomes: Big Brothers Big Sisters aims to enhance educational engagement, performance, and aspirations among mentees, helping them succeed academically.
+3. Increased social and emotional well-being: The program thrive to enhance the mentees' self-esteem, social skills, resilience, and overall emotional well-being through the support and guidance of their mentors.
+4. Reduction in risky behaviors: Big Brothers Big Sisters aims to reduce involvement in risky behaviors such as drug use, violence, and delinquency, by providing positive alternatives and mentorship.
+
+As for evidence of their success, Big Brothers Big Sisters of Eastern Missouri regularly collects data and conducts evaluations to measure the impact of their mentoring relationships. 
+They track outcomes such as improved school performance, increased self-confidence, reduced risky behaviors, and stronger relationships between mentors and mentees.
+
+
+Big Brothers Big Sisters of Eastern Missouri primarily serves the community of Eastern Missouri, which includes the St. Louis metropolitan area and surrounding regions. 
+They target children and youth facing adversity who can benefit from the support and guidance of a caring mentor.
+
+The need being met by the program is the provision of positive role models and supportive relationships for children and youth who may lack such influences in their lives. 
+
+To address quality criteria, Big Brothers Big Sisters of Eastern Missouri follows best practices in mentorship and adheres to established guidelines. 
+They carefully screen and train mentors to ensure they are suitable for the role and provide ongoing support and supervision to the matches. 
+# servant leadership responsibilities:
+As servant leaders in the Big Brothers Big Sisters program, the leaders and mentors strive to positively impact the lives of young individuals by providing supportive relationships, guidance, and role models. They work towards enhancing educational outcomes by promoting engagement, performance, and aspirations among mentees, helping them succeed academically. Additionally, they focus on nurturing mentees' social and emotional well-being, fostering self-esteem, social skills, and resilience. By providing positive alternatives and mentorship, they aim to reduce risky behaviors such as drug use, violence, and delinquency. Through their selfless commitment and support, servant leaders in the program contribute to the positive growth and development of young individuals, providing them with the tools and relationships they need to thrive.
