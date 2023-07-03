@@ -25,3 +25,11 @@ The purpose of this software project is to develop a mobile application that rep
 - Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
 - Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
 - Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
+
+* SERVANT LEADER *
+
+Accessibility Advocacy: Servant leaders prioritize inclusivity and accessibility. Participate in the community service group by pushing for app-accessibility features such as language support, user interface customization options, and compatibility with assistive devices. Ascertain that the program can be used by a wide range of users.
+
+Data Privacy and Security: Servant leaders promote app users' privacy and security. Participate in the community service group by lobbying for strong data privacy practices, ensuring compliance with relevant rules, and putting in place strong security measures. Increase user trust by being open about data collection, storage, and use.
+
+Sharing information and Resources: Actively participate with the community by sharing drone control information, resources, and best practices. Provide instructional information within the app, such as video lessons, essays, or case studies, to assist users in improving their abilities, expanding their understanding of drone technology, and fostering a learning and cooperation community.
