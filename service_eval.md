@@ -14,4 +14,17 @@ Big Brothers Big Sisters operates internationally and provides services to commu
 
 Big Brothers Big Sisters follows set standards for mentor screening, education, and continuous support to guarantee the quality of their programs. They stress the significance of mentor-mentee match ability, ongoing supervision, and assessment of those interactions. The organization also gives mentors the tools and advice they need to take part in worthwhile endeavors and foster the personal development of their mentees. 
 
+ *Servant as Leader*
+
+ The ideas outlined in Robert K. Greenleaf's "The Servant as Leader" must be embraced in order to interact with BIG BROTHERS BIG SISTERS as a servant leader. A servant leader puts others first, exemplifying empathy, humility, and a sincere desire to improve the lives of children.
+
+Building Trusting Relationships: A servant leader should know the value of establishing a friendly connection with the program's mentees. They can build trust and foster an environment conducive to candid conversation by paying attention, displaying empathy, and acting with genuine concern.
  
+Advocating for Mentees: Within the BIG BROTHERS BIG SISTERS organization and the larger community, a servant leader represents the needs and interests of their mentees. They make certain that mentees get the assistance, opportunities, and resources they need to succeed. They help create a more just society by standing up for equity and inclusion.
+
+Encouraging Goal Setting: A servant leader supports mentees in setting and achieving goals(realistic and meaningful).
+
+Promoting Empowerment and Independence: Encouraging the mentees to develop their skills, make decisions, and take ownership of their actions and to become self-reliant and confident individuals.
+
+Being a Positive Role Model: A servant leader sets a good example by acting with honesty, decency, and morality. They act as an example for their mentees, highlighting the value of moral conduct, regard, and fortitude. They encourage their mentees to take responsibility and care for others through their example.
+
