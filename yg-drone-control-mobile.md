@@ -25,3 +25,14 @@ The purpose of this software project is to develop a mobile application that rep
 - Drone Connection: Allow for the establishment of a link between the mobile app and the drone in order to control its motions and activities.
 - Drone Status Monitoring: Displays real-time information about the state of the drone, such as battery level, altitude, speed, and GPS coordinates.
 - Camera Control: Allows users to control the drone's camera, including adjusting tilt, pan, zoom, and capturing photos or recording videos.
+
+
+**SERVANT AS LEADER**
+
+Listening and Empathy: As a servant leader within the drone mobile controller app development group, an individual should actively listen to team members', stakeholders', and end-users' wants and concerns. They can grasp the concerns and goals of others and include their input and viewpoints into the growth process by displaying empathy.  
+
+Collaboration and teamwork: Servant leadership in the app development group entails cultivating a collaborative and welcoming team atmosphere. The servant leader would inspire team members to communicate openly, trust, and cooperate. They would provide opportunity for everyone to contribute their unique skills and ideas, while also valuing varied viewpoints and encouraging a sense of shared ownership and accomplishment.  
+
+Servant Leadership in Action: As a servant leader, someone who works with the drone mobile controller app development group would actively participate in the development process. They would set a good example by accepting accountability for their actions and decisions. They would help team members, assist in overcoming obstacles, and guarantee that the project moves forward smoothly and effectively. 
+
+Personal Development: A servant leader understands the value of personal development to better serve others. They would look for opportunities to improve their technical skills, drone industry knowledge, and leadership talents. They would become more productive in servicing the team and providing a high-quality app if they constantly improved themselves.  
