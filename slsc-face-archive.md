@@ -18,3 +18,17 @@ The SLSC Photo Archive Face project is to Identify and Tag people from the image
 * Build UI or integrate with existing UI:
     * As an admin, They can upload, edit and delete the images and tag them with their respective names.
     * As a User, he/she should be able to verify whether to accept or reject the tag.
+
+
+
+## Servent as leader 
+
+Set up regular meetings and anonymous feedback channels to ensure every team member's voice is heard. Use this feedback to make necessary changes to the project and to foster a culture of openness and collaboration.
+
+Proactively address any conflicts or misunderstandings within the team to prevent them from escalating. Encourage a positive and supportive work environment where every team member feels valued and their contributions are recognized.
+
+Always keep a clear vision of the project's goals and communicate this vision to the team regularly. Ensure that everyone understands the project's broader implications and how their work contributes to these goals.
+
+Anticipate potential challenges, such as technical hurdles or project delays, and plan ahead. This could involve setting up risk management protocols and developing contingency plans to ensure the project stays on track.
+
+Invest time and resources in the personal and professional development of each team member. This could involve mentorship programs, training opportunities, and encouraging knowledge sharing sessions among the team. Recognize that each team member's growth contributes to the overall success of the project.
