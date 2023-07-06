@@ -19,3 +19,29 @@ The Red Cross responds to a variety of needs, including disaster response and as
 	How does the program address quality criteria?
 
 For starters, they've developed standardized protocols and rules for crisis response, blood donation procedures, and health and safety training. These protocols ensure that their operations are consistent, safe, and effective. Second, the organization aggressively interacts with local communities, governments, and partner groups to ensure that its humanitarian activities are coordinated and thorough. They engage in continual program review and improvement, utilizing data and feedback to better their services. Furthermore, the Red Cross maintains a large network of qualified volunteers who go through rigorous training to uphold quality standards and respond to situations effectively.
+
+Servant as a Leader Evaluation
+
+The Red Cross is primarily concerned with helping others. Individuals who volunteer with the organization have the ability to directly aid those in need, whether through disaster relief, blood donation, or military family support. Servant leaders can actively participate in these activities, devoting their time and abilities to meeting the community's needs. Servant leaders promote empathy and listening in order to comprehend others' worries and needs. Individuals can develop empathy by sincerely listening to the stories and experiences of catastrophe victims, blood recipients, or military families when interacting with the Red Cross. Servant leaders may better personalize their support and provide the required assistance if they understand their issues. Servant leaders are dedicated to personal development and learning. Individuals can consistently improve their skills and expertise within the Red Cross by participating in training programs, workshops, and seminars. Servant leaders can provide more effective and efficient aid by being knowledgeable on best practices in disaster response, blood safety, and military support.
+We have figured out the following roles for a servant leader in our project.
+
+Mentor: 
+
+Servant leaders can serve as mentors, mentoring and encouraging team members' professional and personal development. They give criticism, offer knowledge and experience, and assist people in developing their skills and abilities.
+
+Promoter:
+
+ Servant leaders provide assistance to team members while acknowledging their skills and weaknesses. They foster a good and welcoming team atmosphere in which everyone feels respected and driven to give their all.
+ 
+Conflict Resolver:
+
+Servant leaders thrive at resolving disagreements and building positive connections within their teams. They foster open communication, support talks to resolve issues, and develop solutions that promote team collaboration and harmony.
+
+Visionary/Innovator:
+
+A servant leader can be a visionary, inspiring the team with a compelling vision for the project's success. They convey the long-term aims and the potential impact of the project, motivating team members to work together toward a common goal.
+
+Administrator / Facilitator of Decisions:
+
+ A servant leader can function as a facilitator when decisions must be made inside the team. They guarantee that the decision-making process is inclusive, soliciting feedback from all team members, taking into account varied perspectives, and making decisions that are consistent with the team's aims and values.
+
