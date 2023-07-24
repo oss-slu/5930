@@ -56,12 +56,13 @@ The evaluation found that:
 establishing norms and values that support teamwork, and providing resources and support for collaborative activities. They also promote a culture of collaboration by modeling collaborative behaviors, such as sharing information, seeking input, giving feedback, and resolving conflicts.
 - Leaders within the Street Patrol group encourage diverse perspectives by valuing the diversity of volunteers and community members,
 seeking to understand their different backgrounds, experiences, and opinions, and inviting them to contribute to the group's work. They also encourage diverse perspectives by creating a safe and inclusive environment where everyone feels respected, accepted, and heard.
-- Leaders within the Street Patrol group facilitate effective communication by ensuring that communication channels are clear,accessible, and timely, providing relevant information to volunteers and community members, listening actively to their concerns and feedback, and communicating clearly and respectfully. They also facilitate effective communication by using appropriate communication tools and methods, such as face-to-face meetings, phone calls, emails, social media platforms, etc.
+- Leaders within the Street Patrol group facilitate effective communication by ensuring that communication channels are clear, accessible, and timely, providing relevant information to volunteers and community members, listening actively to their concerns and feedback, and communicating clearly and respectfully. They also facilitate effective communication by using appropriate communication tools and methods, such as face-to-face meetings, phone calls, emails, social media platforms, etc.
 
 ### Community Impact
 The evaluation analyzed the impact of servant leadership within the Street Patrol group on the community it serves. It assessed whether the leadership approach has contributed to increased community trust,
 engagement, and positive outcomes in terms of community safety
 and well-being.
+
 The evaluation found that:
 - Servant leadership within the Street Patrol group has increased community trust by building positive relationships with community members,demonstrating empathy and respect for their needs and preferences,and delivering consistent and reliable services. It has also increased community trust by being transparent and accountable for its actions and outcomes,and seeking feedback
 and input from community members.
@@ -83,3 +84,9 @@ URL: https://www.volunteermatch.org/search/org1231884.jsp
 
 2. Title: Street Patrol STL
 URL: https://streetpatrolstl.org/
+
+4. Title: Facebook page
+URL: https://www.facebook.com/StreetPatrolSTL/
+
+5. Title: Servant as leader 
+URL:https://archive.org/details/20200601-the-servant-as-leader/page/6/mode/2up
