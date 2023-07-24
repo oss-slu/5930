@@ -28,3 +28,16 @@ The project aims to develop a community service solution for Bworks, an organiza
 3.Database for storing login details and bicycle information and other tables if needed.
 4.Geolocation and Navigation needed.
 5.Booking and Reservation.
+
+## principles identified in The Servant as Leader
+A community service group provides an opportunity for individuals to engage as servant leaders, embodying the principles identified in "The Servant as Leader." Here's an evaluation of how an individual can engage with the group as a servant leader:
+
+Putting Others First: As a servant leader in a community service group, individuals prioritize the needs of others above their own. They actively listen to community members, understand their challenges, and work towards addressing their needs effectively.
+
+Empowering Others: Servant leaders within the community service group empower others to take ownership and contribute to the group's mission. They foster a collaborative environment where everyone's ideas and talents are valued, encouraging individuals to take initiative and make a positive impact.
+
+Serving with Humility: Servant leaders exemplify humility by recognizing that they are part of a larger cause. They embrace a servant mindset and approach their work with a sense of humility, seeking to learn from others and appreciating the collective efforts of the group.
+
+Building Relationships: Servant leaders understand the importance of building genuine relationships within the community. They connect with community members, establishing trust, and fostering a sense of belonging. By building strong relationships, servant leaders can effectively understand the needs of the community and work together towards meaningful solutions.
+
+Inspiring and Motivating: Servant leaders within the community service group inspire and motivate others to contribute their skills and time. They lead by example, demonstrating dedication, passion, and a strong work ethic. Through their enthusiasm, they inspire others to get involved, creating a ripple effect of positive impact.
