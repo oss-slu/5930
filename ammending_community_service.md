@@ -74,3 +74,12 @@ The evaluation examined the extent to which servant leadership within the Street
 
 The evaluation found that:
 - Leaders within the Street Patrol group provide opportunities for training by offering various learning resources and programs to help volunteers acquire new skills, knowledge,and competencies relevant to their roles. They also provide opportunities for training by facilitating peer learning and knowledge sharing
+
+
+
+Citations:
+1. Title: VolunteerMatch Organization Page
+URL: https://www.volunteermatch.org/search/org1231884.jsp
+
+2. Title: Street Patrol STL
+URL: https://streetpatrolstl.org/
