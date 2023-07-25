@@ -74,3 +74,19 @@ Based on the evaluation findings, the following recommendations are suggested fo
 ## Conclusion
 
 The Street Patrol program is a valuable and effective community service volunteer group that aims to reduce crime rates and improve community safety by patrolling the streets, engaging with community members, and providing support and resources. The program uses the Theory of Change framework to define and measure its impact. This evaluation assessed the program's effectiveness and identified areas for improvement. The evaluation found that the program achieved or exceeded most of its output targets; had positive effects on most of its short-term and intermediate outcomes; had a positive impact on its ultimate goal; and faced several facilitating or hindering factors. Based on these findings, several recommendations were suggested for improving or sustaining the program. The evaluation concluded that the Street Patrol program is a successful example of how volunteers can make a difference in their communities.
+
+Citation: 
+1. Title: theory of change
+URL: https://en.wikipedia.org/wiki/Theory_of_Change
+2. Title: Applying a theory of change approach to interagency planning
+URL:https://pubmed.ncbi.nlm.nih.gov/17001524/
+3. Title: Using theory of change to guide planning
+URL:https://learningforfunders.candid.org/wp-content/uploads/sites/2/2018/12/theory_change.pdf
+4. Title: VolunteerMatch Organization
+URL: https://www.volunteermatch.org/search/org1231884.jsp
+5. Title: Street Patrol STL
+ URL: https://streetpatrolstl.org/
+6. Title: Facebook page
+URL: https://www.facebook.com/StreetPatrolSTL/
+7. Title: Servant as leader
+URL:https://archive.org/details/20200601-the-servant-as-leader/page/6/mode/2up
