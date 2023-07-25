@@ -23,3 +23,4 @@ Teena Reddy Kanduru, Teena, TeenaReddy 20, slsc-face-archive, Developer
 Vineetha Muktineni,Vineetha,Vmuktineni,BWorks,Student
 Vivekananda Reddy Ponugoti, Vivek, vivekanandareddy-ponugoti, YG_Drone, Developer
 Vivek Vardhan Reddy Veerannagari, Vivek, vivek50399, yg-drone, developer
+Effiong Blessing beffiong1, SLSC photo archive face tagging, Student/python developer
